@@ -2,6 +2,7 @@ protobuf2uml
 ============
 
 protobuf2uml - a tool to create an UML diagram from a protobuf files
+proto3 is not supported
 
 Description
 -----------
